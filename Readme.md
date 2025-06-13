@@ -31,29 +31,28 @@ type AboutMe = {
   "🎯 goal2024": string;
 };
 
-const usama: AboutMe = {
-  "🌍 location": "Islamabad, Pakistan 🇵🇰",
-  "🎓 education": "Computer Science @ CUI Islamabad",
-  "🔭 currentFocus": [
-    "Flutter Development",
-    "Frontend Engineering",
-    "Firebase Integration",
-    "Mobile App Development"
-  ],
-  "🌱 learning": [
-    "Next.js",
-    "Advanced Algorithms",
-    "System Design",
-    "Cloud Architecture"
-  ],
-  "💬 askMeAbout": [
-    "Dart", "Flutter", "React", "Firebase", "DSA", "Mobile Dev"
-  ],
-  "⚡ funFact": "I debug code better with coffee ☕",
-  "🎯 goal2024": "Contribute to Open Source & Build Amazing Apps"
-};
+### 👨‍💻 About Me
 
-export default usama;
+📍 **Location:** Islamabad, Pakistan 🇵🇰  
+🎓 **Education:** Computer Science @ CUI Islamabad  
+
+🔭 **Currently Focused On**
+- Flutter Development
+- Frontend Engineering
+- Firebase Integration
+- Mobile App Development
+
+🌱 **Currently Learning**
+- Next.js
+- Advanced Algorithms
+- System Design
+- Cloud Architecture
+
+💬 **Ask Me About**
+- Dart, Flutter, React, Firebase, DSA, Mobile Dev
+
+⚡ **Fun Fact:** I debug code better with coffee ☕  
+🎯 **2024 Goal:** Contribute to Open Source & Build Amazing Apps
 
 
 
