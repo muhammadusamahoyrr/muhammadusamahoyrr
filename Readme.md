@@ -4,7 +4,7 @@
   
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&height=70&lines=Full+Stack+Developer+%F0%9F%9A%80;Flutter+%26+Frontend+Specialist+%F0%9F%93%B1;Algorithm+Enthusiast+%F0%9F%A7%A0;Open+Source+Contributor+%E2%9C%A8;Tech+Article+Writer+%F0%9F%93%9D" alt="Typing SVG" />
   
-  <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="600">
+  <img src="https://camo.githubusercontent.com/4f3c54bd3598e67d70e4ad212fa2618883c772dc8221936a73d55ea382a72a35/68747470733a2f2f692e67696665722e636f6d2f333348492e676966" width="600">
   
   <div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 20px; border-radius: 15px; margin: 20px 0;">
     <h3 style="color: white; font-style: italic; font-size: 20px; margin: 0;">
