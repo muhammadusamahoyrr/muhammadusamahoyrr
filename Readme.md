@@ -43,20 +43,13 @@
 
 ---
 
-### 📚 Currently Learning
-- ⚙️ **Next.js & Fullstack Development**
-- 📐 **Advanced Algorithms & DSA**
-- 🧱 **System Design Patterns**
-- ☁️ **Cloud Architecture (GCP & AWS)**
+### 📚 Currently Learning                                          ### 💬 Tech I Talk About
+- ⚙️ **Next.js & Fullstack Development**                           - 💙 Dart & Flutter
+- 📐 **Advanced Algorithms & DSA**                                 - ⚛️ React / Next.js  
+- 🧱 **System Design Patterns**                                    - 🔥 Firebase  
+- ☁️ **Cloud Architecture (GCP & AWS)**                            - 🧠 Data Structures & Algorithms  
 
 ---
-
-### 💬 Tech I Talk About
-- 💙 Dart & Flutter  
-- ⚛️ React / Next.js  
-- 🔥 Firebase  
-- 🧠 Data Structures & Algorithms  
-- 🧪 Flask, Go (Golang), Blockchain  
 
 ---
 
