@@ -22,13 +22,13 @@
 
 
 type AboutMe = {
-  "🌍 location": string;
-  "🎓 education": string;
-  "🔭 currentFocus": string[];
-  "🌱 learning": string[];
-  "💬 askMeAbout": string[];
-  "⚡ funFact": string;
-  "🎯 goal2024": string;
+  "🌍 location", 
+  "🎓 education", 
+  "🔭 currentFocus",
+  "🌱 learning" ,
+  "💬 askMeAbout",
+  "⚡ funFact",
+  "🎯 goal2024",
 };
 
 ### 👨‍💻 About Me
