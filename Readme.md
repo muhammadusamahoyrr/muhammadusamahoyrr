@@ -20,35 +20,53 @@
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
+## 💫 About Me — Muhammad Usama
 
-type AboutMe = {
-  "🌍 location", 
-  "🎓 education", 
-  "🔭 currentFocus",
-  "🌱 learning" ,
-  "💬 askMeAbout",
-  "⚡ funFact",
-  "🎯 goal2024",
-};
+> 🔹 *“Making an attempt to sever the fate of this world through code.”*
 
-### 👨‍💻 About Me
+---
 
-📍 **Location:** Islamabad, Pakistan 🇵🇰  
-🎓 **Education:** Computer Science @ CUI Islamabad  
+### 🌍 Location  
+**Islamabad, Pakistan 🇵🇰**
 
-🔭 **Currently Focused On**
-- Flutter Development  - Frontend Engineering
-- Firebase Integration  - Mobile App Development
+### 🎓 Education  
+**BS Computer Science**  
+*COMSATS University Islamabad*
 
+---
 
-🌱 **Currently Learning**
-- Next.js- Advanced Algorithms- System Design
+### 🚀 What I'm Working On
+- 🛠️ **Flutter App Development**
+- 💻 **Frontend Engineering with React & Next.js**
+- 🔥 **Firebase Integration & Backend Services**
+- 📱 **Cross-platform Mobile App Projects**
 
-💬 **Ask Me About**
-- Dart, Flutter, React, Firebase, DSA, Mobile Dev
+---
 
-⚡ **Fun Fact:** I debug code better with coffee ☕  
-🎯 **2024 Goal:** Contribute to Open Source & Build Amazing Apps
+### 📚 Currently Learning
+- ⚙️ **Next.js & Fullstack Development**
+- 📐 **Advanced Algorithms & DSA**
+- 🧱 **System Design Patterns**
+- ☁️ **Cloud Architecture (GCP & AWS)**
+
+---
+
+### 💬 Tech I Talk About
+- 💙 Dart & Flutter  
+- ⚛️ React / Next.js  
+- 🔥 Firebase  
+- 🧠 Data Structures & Algorithms  
+- 🧪 Flask, Go (Golang), Blockchain  
+
+---
+
+### ⚡ Fun Fact  
+> *I debug better with coffee ☕ → 💻*
+
+---
+
+### 🎯 2024 Goal  
+**Contribute to Open Source & Build Impactful Mobile Applications**
 
 
 
