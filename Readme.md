@@ -32,33 +32,38 @@ type AboutMe = {
 
 const usama: AboutMe = {
     "🌍 location": "Islamabad, Pakistan 🇵🇰",
+    -
     "🎓 education": "Computer Science @ CUI Islamabad",
+    -
     "🔭 currentFocus": [
-        "Flutter Development", 
-        "Frontend Engineering", 
+        "Flutter Development",
+        "Frontend Engineering",
         "Firebase Integration",
         "Mobile App Development"
     ],
+    -
     "🌱 learning": [
-        "Next.js", 
-        "Advanced Algorithms", 
+        "Next.js",
+        "Advanced Algorithms",
         "System Design",
         "Cloud Architecture"
     ],
+    -
     "💬 askMeAbout": [
-        "Dart", "Flutter", "React", 
-        "Firebase", "DSA", "Mobile Dev"
+        "Dart",
+        "Flutter",
+        "React",
+        "Firebase",
+        "DSA",
+        "Mobile Dev"
     ],
+    -
     "⚡ funFact": "I debug code better with coffee ☕",
+    -
     "🎯 goal2024": "Contribute to Open Source & Build Amazing Apps"
 };
 
-// Usage examples:
-console.log(`👋 Hi! I'm from ${usama["🌍 location"]}`);
-console.log(`🎯 My 2024 goal: ${usama["🎯 goal2024"]}`);
-console.log(`💡 Currently focusing on: ${usama["🔭 currentFocus"].join(", ")}`);
 
-export default usama;
 
 
 <div align="center">
