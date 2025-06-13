@@ -20,29 +20,45 @@
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-typescript
-const usama = {
-    🌍 location: "Islamabad, Pakistan 🇵🇰",
-    🎓 education: "Computer Science @ CUI Islamabad",
-    🔭 currentFocus: [
+type AboutMe = {
+    "🌍 location": string;
+    "🎓 education": string;
+    "🔭 currentFocus": string[];
+    "🌱 learning": string[];
+    "💬 askMeAbout": string[];
+    "⚡ funFact": string;
+    "🎯 goal2024": string;
+};
+
+const usama: AboutMe = {
+    "🌍 location": "Islamabad, Pakistan 🇵🇰",
+    "🎓 education": "Computer Science @ CUI Islamabad",
+    "🔭 currentFocus": [
         "Flutter Development", 
         "Frontend Engineering", 
         "Firebase Integration",
         "Mobile App Development"
     ],
-    🌱 learning: [
+    "🌱 learning": [
         "Next.js", 
         "Advanced Algorithms", 
         "System Design",
         "Cloud Architecture"
     ],
-    💬 askMeAbout: [
+    "💬 askMeAbout": [
         "Dart", "Flutter", "React", 
         "Firebase", "DSA", "Mobile Dev"
     ],
-    ⚡ funFact: "I debug code better with coffee ☕",
-    🎯 goal2024: "Contribute to Open Source & Build Amazing Apps"
+    "⚡ funFact": "I debug code better with coffee ☕",
+    "🎯 goal2024": "Contribute to Open Source & Build Amazing Apps"
 };
+
+// Usage examples:
+console.log(`👋 Hi! I'm from ${usama["🌍 location"]}`);
+console.log(`🎯 My 2024 goal: ${usama["🎯 goal2024"]}`);
+console.log(`💡 Currently focusing on: ${usama["🔭 currentFocus"].join(", ")}`);
+
+export default usama;
 
 
 <div align="center">
@@ -166,30 +182,21 @@ const usama = {
 
 <div align="center">
 
-<a href="https://github.com/muhammadusamahoyrr/flutter-ecommerce-app">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=muhammadusamahoyrr&repo=flutter-ecommerce-app&theme=dark&hide_border=true&title_color=00d9ff&text_color=c9d1d9&bg_color=0d1117" />
+<a href="https://github.com/muhammadusamahoyrr/portfolio">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=muhammadusamahoyrr&repo=portfolio&theme=dark&hide_border=true&title_color=00d9ff&text_color=c9d1d9&bg_color=0d1117" />
 </a>
-<a href="https://github.com/muhammadusamahoyrr/react-portfolio">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=muhammadusamahoyrr&repo=react-portfolio&theme=dark&hide_border=true&title_color=00d9ff&text_color=c9d1d9&bg_color=0d1117" />
+<a href="https://github.com/muhammadusamahoyrr/cookiebliss">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=muhammadusamahoyrr&repo=cookiebliss&theme=dark&hide_border=true&title_color=00d9ff&text_color=c9d1d9&bg_color=0d1117" />
 </a>
 
 </div>
+
 
 ---
 
 ## <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="25"> Latest Blog Posts
 
-<div align="center">
 
-### <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="20"> Recent Articles on Medium
-
-📱 **Building Scalable Flutter Apps: Architecture & Best Practices**  
-🔥 **Firebase Integration in Flutter: Complete Authentication Guide**  
-⚡ **Advanced React Patterns for Modern Frontend Development**  
-🧮 **Data Structures & Algorithms: Problem-Solving Techniques**  
-🚀 **Mobile App Performance Optimization: Tips & Tricks**
-
-</div>
 
 <div align="center">
   
