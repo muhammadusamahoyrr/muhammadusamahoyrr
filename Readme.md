@@ -18,11 +18,9 @@
 
 
 
-- 🤖 Software Engineer at **Hareseca LLC.**
+- 🤖 Computer Science at **CUI ISLAMABAD.**
 
-- 👾 Leading Mobile Development at [YESIST12](https://ieeeyesist12.org/).
-
-- 🖊️ Teaching **Dart, Flutter, Go (Golang), Mobile & Backend, Software Engineering, Data Structures and Algorithm, OOP, Mobile App Development.**
+- 🖊️ Teaching **Dart, Flutter,  Frontend , Data Structures and Algorithm, OOP, Mobile App Development.**
 
 - 👨‍💼 Working on ** Frontend ,Flutter, Firebase, Next js **
 
@@ -47,11 +45,17 @@
 
 ## Connect with me 🤝
 <p align="center">
-<a href="www.linkedin.com/in/muhammadusama111" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ahmads_exe" height="30" width="40" /></a>
-<a href="www.linkedin.com/in/muhammadusama111" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad-ahmad-25155a1b0" height="30" width="40" /></a>
-<a href="https://www.facebook.com/profile.php?id=100074667601760" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="muhammad ahmad" height="30" width="40" /></a>
-<a href="https://www.instagram.com/muhammad._.usama8/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ahmads.exe" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/muhammadusamahoyrr" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn - muhammadusamahoyrr" height="30" width="40" />
+  </a>
+  <a href="https://www.facebook.com/profile.php?id=100074667601760" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook - muhammadusamahoyrr" height="30" width="40" />
+  </a>
+  <a href="https://www.instagram.com/muhammad._.usama8/" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram - muhammadusamahoyrr" height="30" width="40" />
+  </a>
 </p>
+
 
 
 
@@ -59,22 +63,23 @@
 
 ## Languages and Tools 🛠️
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=flutter,next js dart,go,mongodb,firebase"/>
+    <img src="https://skillicons.dev/icons?i=flutter,next,dart,go,mongodb,firebase"/>
     <img src="https://skillicons.dev/icons?i=postman,androidstudio,c,vscode"/><br>
 </div>
 
 
+
 ## Stats 📈
-<p><img height=180em align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmadexe&langs_count=10&hide=cmake,html&theme=github_dark&show_icons=true&locale=en&layout=compact" alt="muhammadusamahoyrr" /></p>
+<p><img height=180em align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammadusamahoyrr&langs_count=10&hide=cmake,html&theme=github_dark&show_icons=true&locale=en&layout=compact" alt="muhammadusamahoyrr" /></p>
 <p>
   &nbsp;<img height="180em" align="center" 
-  src="https://github-readme-stats.vercel.app/api?username=muhammadusamahoyyr&theme=github_dark&count_private=true&show_icons=true&locale=en" 
-  alt="muhammadusamahoyyr" />
+  src="https://github-readme-stats.vercel.app/api?username=muhammadusamahoyrr&theme=github_dark&count_private=true&show_icons=true&locale=en" 
+  alt="muhammadusamahoyrr" />
 </p>
 
-[![committers.top badge](https://user-badge.committers.top/pakistan/muhammadusamahoyyr.svg)](https://user-badge.committers.top/pakistan/muhammadusamahoyyr)
+[![committers.top badge](https://user-badge.committers.top/pakistan/muhammadusamahoyrr.svg)](https://user-badge.committers.top/pakistan/muhammadusamahoyyr)
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=muhammadusamahoyyr&label=Profile%20views&color=0e75b6&style=flat" 
-  alt="muhammadusamahoyyr" />
+  <img src="https://komarev.com/ghpvc/?username=muhammadusamahoyrr&label=Profile%20views&color=0e75b6&style=flat" 
+  alt="muhammadusamahoyrr" />
 </p>
