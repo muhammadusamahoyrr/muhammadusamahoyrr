@@ -63,8 +63,8 @@
 
 ## Languages and Tools 🛠️
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=flutter,next,dart,go,mongodb,firebase"/>
-    <img src="https://skillicons.dev/icons?i=postman,androidstudio,c,vscode"/><br>
+    <img src="https://skillicons.dev/icons?i=flutter,next,dart,js,react,mongodb,firebase"/>
+    <img src="https://skillicons.dev/icons?i=postman,git,github,androidstudio,c,java,vscode"/><br>
 </div>
 
 
