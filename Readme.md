@@ -37,16 +37,12 @@ type AboutMe = {
 🎓 **Education:** Computer Science @ CUI Islamabad  
 
 🔭 **Currently Focused On**
-- Flutter Development
-- Frontend Engineering
-- Firebase Integration
-- Mobile App Development
+- Flutter Development  - Frontend Engineering
+- Firebase Integration  - Mobile App Development
+
 
 🌱 **Currently Learning**
-- Next.js
-- Advanced Algorithms
-- System Design
-- Cloud Architecture
+- Next.js- Advanced Algorithms- System Design
 
 💬 **Ask Me About**
 - Dart, Flutter, React, Firebase, DSA, Mobile Dev
