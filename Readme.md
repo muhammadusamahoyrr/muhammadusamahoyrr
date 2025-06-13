@@ -43,13 +43,35 @@
 
 ---
 
-### 📚 Currently Learning                                          ### 💬 Tech I Talk About
-- ⚙️ **Next.js & Fullstack Development**                           - 💙 Dart & Flutter
-- 📐 **Advanced Algorithms & DSA**                                 - ⚛️ React / Next.js  
-- 🧱 **System Design Patterns**                                    - 🔥 Firebase  
-- ☁️ **Cloud Architecture (GCP & AWS)**                            - 🧠 Data Structures & Algorithms  
+<h2>📚 Currently Learning &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 💬 Tech I Talk About</h2>
 
----
+<table>
+  <tr>
+    <td valign="top">
+
+<ul>
+  <li>⚙️ <b>Next.js & Fullstack Development</b></li>
+  <li>📐 <b>Advanced Algorithms & DSA</b></li>
+  <li>🧱 <b>System Design Patterns</b></li>
+  <li>☁️ <b>Cloud Architecture (GCP & AWS)</b></li>
+</ul>
+
+</td>
+<td valign="top">
+
+<ul>
+  <li>💙 <b>Dart & Flutter</b></li>
+  <li>⚛️ <b>React / Next.js</b></li>
+  <li>🔥 <b>Firebase</b></li>
+  <li>🧠 <b>Data Structures & Algorithms</b></li>
+</ul>
+
+</td>
+</tr>
+</table>
+
+
+
 
 ---
 
