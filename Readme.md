@@ -291,13 +291,12 @@
 ### <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385b7423ec.gif" width="25"> Fun Facts About Me
 
 
-🎯 I love solving complex algorithmic challenges on LeetCode
-🌱 Currently exploring System Design and Cloud Architecture  
+
+🌱 Currently exploring System Design  
 🎮 Gaming enthusiast - love strategy and puzzle games
-📚 Tech article writer and knowledge sharing advocate
 🚀 Always excited about emerging technologies and frameworks
 🌍 Open to remote collaboration and freelance opportunities
-☕ Coffee-driven developer - my code runs on caffeine!
+
 
 
 </div>
