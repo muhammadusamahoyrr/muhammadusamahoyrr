@@ -199,15 +199,7 @@
 
 <img width="90%" src="https://github-profile-trophy.vercel.app/?username=muhammadusamahoyrr&theme=darkhub&no-frame=true&no-bg=false&margin-w=4&column=7" />
 
-<!-- Holopin Badge Board -->
-[![@muhammadusamahoyrr's Holopin board](https://holopin.me/muhammadusamahoyrr)](https://holopin.io/@muhammadusamahoyrr)
 
-<!-- Highlighted Badge -->
-<p align="center">
-  <a href="https://www.holopin.io/userbadge/cmbtw7jjt277707kzqpbowfva">
-    <img src="https://holopin.me/muhammadusamahoyrr/badge/cmbtw7jjt277707kzqpbowfva" alt="Holopin Badge" width="120"/>
-  </a>
-</p>
 
 
 <img src="https://user-badge.committers.top/pakistan/muhammadusamahoyrr.svg" alt="committers.top badge">
