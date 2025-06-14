@@ -111,9 +111,9 @@
 - **📱 Mobile Development:** Flutter, Dart, Android
 - **🌐 Frontend:** React, Next.js, JavaScript, HTML5, CSS3
 - **🔥 Backend:** Firebase, Node.js, REST APIs
-- **🗄️ Database:** MongoDB, Firestore, SQLite
+- **🗄️ Database:** MongoDB, Firestore
 - **💻 Languages:** C++, Java, JavaScript, Dart, Python
-- **🛠️ Tools:** Git, VS Code, Android Studio, Postman, Figma
+- **🛠️ Tools:** Git, VS Code, Android Studio, Postman
 
 </td>
 <td width="50%" valign="top">
